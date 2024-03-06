@@ -1,0 +1,18 @@
+const newParagraph = document.createElement("p");
+newParagraph.innerText = "Added with Javascript!";
+document.body.appendChild(newParagraph);
+const image = document.createElement("img");
+image.setAttribute('src', 'https://picsum.photos/200');
+image.setAttribute('alt', 'new image');
+document.body.appendChild(image);
+const newDiv = document.createElement("div");
+newDiv.innerHTML = "<ul><li>One</li><li>Two</li><li>Three</li></ul>";
+document.body.appendChild(newDiv);
+const newSection=document.createElement("section");
+const newHead=document.createElement("h2");
+newHead.textContent="CSE 121b";
+const newPara=document.createElement("p");
+newPara.textContent="Welcome to Javascript Language";
+newSection.appendChild(newHead);
+newSection.appendChild(newPara);
+document.body.appendChild(newSection);
