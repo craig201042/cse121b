@@ -6,15 +6,15 @@
 
 const fullName= 'Craig Zeng';
 const currentYear='2024';
-profilePicture='images/craig.png';
+const profilePicture='images/craig.png';
 
 
 /* Step 3 - Element Variables */
 
-nameElement=document.getElementById('name');
-foodElement=document.getElementById('food');
-yearElement=document.querrySelector('#year');
-imageElement=document.querrySelector('img');
+const nameElement=document.getElementById('name');
+const foodElement=document.getElementById('food');
+const yearElement=document.querrySelector('#year');
+const imageElement=document.querrySelector('img');
 
 
 /* Step 4 - Adding Content */
