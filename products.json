@@ -1,0 +1,67 @@
+[
+  {
+    "productName": "Nike Air Max Shoe",
+    "price": 180,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f50070d2-77a3-4213-aebf-9371d9759548/air-max-dn-%E7%94%B7-FtLNfm.png"
+  },
+  {
+    "productName": "Jordan Flight Cloth",
+    "price": 75,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5c498fab-1456-46e5-9de3-0956b08f149a/jordan-flight-mvp-%E7%94%B7%E6%AC%BE%E7%B6%B2%E5%B8%83%E7%9F%AD%E8%A4%B2-1xwkBQ.png"
+  },
+  {
+    "productName": "Dri-fit Cloth",
+    "price": 42,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/83dceab6-ae75-4e21-a519-f8f81d7e0337/jordan-sport-%E7%94%B7%E6%AC%BE-dri-fit-%E7%84%A1%E8%A2%96-t-%E6%81%A4-WfjGfM.png"
+  },
+  {
+    "productName": "Kino-short Cloth",
+    "price": 66,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f0e99eb4-ced6-42e7-8598-c78619236d3e/club-%E7%94%B7%E6%AC%BE%E5%A5%87%E8%AB%BE%E7%9F%AD%E8%A4%B2-fzfr3b.png"
+  },
+  {
+    "productName": "Nike Dunk Shoe",
+    "price": 36,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a3e7dead-1ad2-4c40-996d-93ebc9df0fca/dunk-%E4%BD%8E%E7%AD%92-retro-%E7%94%B7-66RGqF.png"
+  },
+  {
+    "productName": "Nike Cortez Shoe",
+    "price": 48,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4eea30b0-fcae-4804-a6b5-ac01a3cd1c93/cortez-%E7%94%B7-0VH7qz.png"
+  },
+  {
+    "productName": "Nike Killshot Shoe",
+    "price": 88,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/466e41ec-0f59-4cde-a92d-af430eed9d5f/killshot-2-%E7%9A%AE%E9%9D%A9%E7%89%88%E7%94%B7-NZ2scp.png"
+  },
+  {
+    "productName": "Golf paint Cloth",
+    "price": 59,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/05627421-ad60-4881-8c9c-5a83416fd442/golf-club-%E7%94%B7%E6%AC%BE-dri-fit-%E9%AB%98%E7%88%BE%E5%A4%AB%E9%95%B7%E8%A4%B2-fZ7RXl.png"
+  },
+  {
+    "productName": "Jordan essential Cloth",
+    "price": 56,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d4e5f668-6f93-49a3-aa4c-525c94ab2ca4/jordan-essentials-%E7%94%B7%E6%AC%BE%E6%A2%AD%E7%B9%94%E7%9F%AD%E8%A4%B2-QV9xmh.png"
+  },
+  {
+    "productName": "Zoom Vomero Shoe",
+    "price": 126,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ab1dfa10-8505-4ea0-8c1f-5fceb4c9e161/zoom-vomero-5-%E7%94%B7-rcKwTF.png"
+  },
+  {
+    "productName": "Air force Shoe",
+    "price": 49,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-%E7%94%B7-WrLlWX.png"
+  },
+  {
+    "productName": "air max plus Shoe",
+    "price": 147,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f7eb45f-739f-4099-b0d9-c69a24aef88a/air-max-pulse-se-%E7%94%B7-f9Xn4Z.png"
+  },
+  {
+   "productName": "Jordan legency Shoe",
+   "price": 47,
+   "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5a3ff947-a8b9-4027-a065-63d1e23af12e/air-jordan-legacy-312-%E4%BD%8E%E7%AD%92%E7%94%B7-xHRZv7.png"
+  }
+]
